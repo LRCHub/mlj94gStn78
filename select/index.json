@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アボカド",
+  "base_artist": "yonige",
+  "createdAt": "2026-01-13T09:11:32.203737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アボカド feat.伊澤一葉",
+      "artist": "Kayoko Yoshizawa",
+      "has_synced": true,
+      "path": "select/01_アボカド_feat.伊澤一葉_Kayoko_Yoshizawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アボカド",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/pl_01_アボカド_yonige.txt"
+    }
+  ]
+}
